@@ -1,0 +1,5 @@
+<client key="client1" mail="client1@mydomain.com">
+    <alert type="memory" limit="80%" />
+    <alert type="cpu" limit="80%" />
+    <alert type="processes" limit="500" />
+</client>

@@ -1,0 +1,12 @@
+<server>
+    <HTTPConfig>
+        <port>30080</port>
+    </HTTPConfig>
+    <SMTPConfig>
+        <host>127.0.0.1</host>
+        <port>30025</port>
+    </SMTPConfig>
+    <DatabaseConfig>
+        <path>monitor.db</path>
+    </DatabaseConfig>
+</server>

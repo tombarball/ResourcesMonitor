@@ -1,0 +1,6 @@
+<client>
+    <uniqueKey>client2</uniqueKey>
+    <monitorInterval>5</monitorInterval>
+    <serverHost>localhost</serverHost>
+    <serverPort>30080</serverPort>
+</client>
